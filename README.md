@@ -1,5 +1,6 @@
 # rickymorty
-Playing with rickymorty API
+Playing with Rick & Morty API
+
 Opciones:
 
 ### 1.Consultar listado de todos los personajes
